@@ -368,3 +368,19 @@ body {
 #sec5_div05{
     margin-top: 15px;
 }
+/* footer section */
+#sec6_div1{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+#sec6_txt1{
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+#sec6_div2{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+}
